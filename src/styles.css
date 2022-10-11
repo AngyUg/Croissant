@@ -1,3 +1,23 @@
 .main-image {
   border-radius: 10%;
 }
+body {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: center;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  background: linear-gradient(
+    90deg,
+    rgb(115, 252, 118) 0%,
+    rgb(139, 102, 241) 100%
+  );
+}
+a:visited {
+  color: #934141;
+}
+
+a {
+  color: #934141;
+}
