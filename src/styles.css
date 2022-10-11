@@ -32,4 +32,9 @@ h1 {
 .main-links {
   display: flex;
   justify-content: space-evenly;
+  margin-top: 20px;
+}
+
+.page-about {
+  color: rgba(21, 1, 23, 0.777);
 }
